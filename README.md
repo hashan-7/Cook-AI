@@ -124,3 +124,7 @@ Distributed under the MIT License.
 ## 🔗 Project Link
 
 [https://github.com/hashan-7/cook-ai](https://github.com/hashan-7/cook-ai)
+
+<p align="center">
+  Made with ❤️ by h7
+</p>
